@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=Welcome%20to%20my%20Github)
 
+## 👍 About Me
+raising_hand:Computer Enginerring student @ university in South Korea
+DCU > Daegu Catholic University(2021.03~2024.12)
+YU > Yeungnam University (2025.03 ~ Present)
+
+
  ## 🧱 Tech Stack
  ### Language
  [![Language](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
