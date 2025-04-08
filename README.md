@@ -3,8 +3,10 @@
 
  ## 🧱 Tech Stack
  ### Language
+  <!--c-->
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+ <!--c++-->
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white"/>
 
 <!--
 **inter7247/inter7247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
