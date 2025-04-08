@@ -2,8 +2,8 @@
 
 ## 👍 About Me
 🙋‍♂️ Computer Enginerring student @ university in South Korea. <br/>
-🏫 DCU > Daegu Catholic University(2021.03~2024.12)<br/>
-    YU > Yeungnam University (2025.03 ~ Present)<br/>
+🏫 DCU > Daegu Catholic University(2021.03~2024.12) <br/>
+🏫 YU > Yeungnam University (2025.03 ~ Present) <br/>
 
 
  ## 🧱 Tech Stack
