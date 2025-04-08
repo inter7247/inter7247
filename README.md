@@ -3,6 +3,7 @@
 
  ## 🧱 Tech Stack
  ### Language
+ [![My Skills](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
 <!--C-->
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white">
 <!--C++-->
