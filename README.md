@@ -8,6 +8,7 @@
 <!--C++-->
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
   ## 🧱 Tech Stack
   ### Language
