@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=Welcome%20to%20my%20Github)
 
 ## 👍 About Me
 🙋‍♂️ Computer Enginerring student @ university in South Korea. <br/>
